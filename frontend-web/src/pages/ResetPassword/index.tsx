@@ -23,7 +23,7 @@ import {
 
 interface ResetPasswordFormData {
   password: string;
-  password_confirmation: string;//eslint-disable-line
+  password_confirmation: string;
 }
 
 const ResetPassword: React.FC = () => {
