@@ -64,3 +64,6 @@ buck-out/
 
 # Secret
 src/utils/config.ts
+
+#Test
+coverage
